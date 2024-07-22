@@ -27,7 +27,7 @@ Hello! I’m Josh Chang, a UC Berkeley Data Science student with a strong founda
 ## Fun Facts
 
 - 🏀 I love NBA basketball and play pickup 4-5 a week.
-- 📚 Currently reading *The Idiot* by Elif Batuman and *David and Goliath* by Malcolm Gladwell
+- 📚 Currently reading *The Idiot* by Elif Batuman and *David and Goliath* by Malcolm Gladwell.
 - 🌉 I often plan trips to places like Golden Gate Park and Monterey Bay.
 
 ---
