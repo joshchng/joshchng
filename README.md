@@ -14,9 +14,8 @@ Hello! I’m Josh Chang, a UC Berkeley Data Science student with a strong founda
 
 ## Skills
 
-- **Languages**: Python, Java, JavaScript, SQL
-- **Frameworks and Libraries**: React, Node.js, Express
-- **Tools and Platforms**: Git, Docker, AWS
+- **Languages**: Python, Java, JavaScript, R, SQL
+- **Frameworks and Libraries**: React, Node.js
 - **Other**: Backend integrations, API development, Data analysis
 
 ## Contact Me
