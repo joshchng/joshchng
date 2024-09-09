@@ -1,4 +1,4 @@
-# Hi there, I'm Josh Chang 👋
+# Read about Josh Chang below ⤵️
 
 hey!
 
