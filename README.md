@@ -1,4 +1,4 @@
-# Read about Josh Chang below ⤵️
+# Read about josh below ⤵️
 
 hey!
 
