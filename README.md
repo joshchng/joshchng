@@ -5,17 +5,16 @@ hey! I'm Josh Chang, a UC Berkeley Data Science student with a strong foundation
 ## About Me
 
 - 🎓 I'm studying Data Science at UC Berkeley, Class of 2025.
-- 🌱 I’m currently learning more about backend development and data science.
+- 📊 I work on backend data integrations and Infrastructure Automation for the Berkeley IT department!
 - 💼 I worked at a tech startup developing an email client similar to Superhuman.
-- 📊 I work on backend data integrations for the Berkeley IT department.
-- ⚽ In my spare time, I referee intramural soccer, volleyball, and basketball while managing academic responsibilities.
+- 🗣️ In my spare time, I referee intramural soccer, volleyball, and basketball while managing academic responsibilities.
 - 📍 Based in Berkeley, CA.
 
 
 ## Skills
 
-- **Languages**: Python, Java, JavaScript, TypeScript, R, SQL
-- **Frameworks and Libraries**: React, Node.js, Pandas
+- **Languages**:   Java, Python, Javascript, TypeScript, Google Apps Script, R, Scheme, SQL, HTML, CSS, RegEx
+- **Frameworks and Libraries**: React, Node.js, dpylr, ggplot, tidyr, NumPy, Pandas, Google Truth, scikit-learn, matplotlib, SymPy
 - **Tools and Platforms**: Git, Google Apps Script
 - **Other**: Backend integrations, API development, Data analysis
 
