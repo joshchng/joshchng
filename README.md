@@ -8,7 +8,7 @@ hey! I'm Josh Chang, a UC Berkeley Data Science student with a strong foundation
 - 🌱 I’m currently learning more about backend development and data science.
 - 💼 I worked at a tech startup developing an email client similar to Superhuman.
 - 📊 I work on backend data integrations for the Berkeley IT department.
-- ⚽ In my spare time, I referee intramural soccer and manage multiple academic responsibilities.
+- ⚽ In my spare time, I referee intramural soccer, volleyball, and basketball while managing academic responsibilities.
 - 📍 Based in Berkeley, CA.
 
 
