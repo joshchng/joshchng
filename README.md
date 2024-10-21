@@ -1,8 +1,6 @@
-# Read about josh below ⤵️
+# read about josh below ⤵️
 
-hey!
-
-I’m Josh Chang, a UC Berkeley Data Science student with a strong foundation in programming, data analysis, and backend integrations. I am passionate about roles that intersect technology and life sciences, and I am eager to connect with professionals to collaborate on innovative projects that make a difference.
+hey! I'm Josh Chang, a UC Berkeley Data Science student with a strong foundation in programming, data analysis, and backend integrations. I am passionate about roles that intersect technology and life sciences, and I am eager to connect with professionals to collaborate on innovative projects that make a difference.
 
 ## About Me
 
