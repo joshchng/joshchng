@@ -4,7 +4,6 @@ hey! I'm Josh Chang, a UC Berkeley Data Science student with a strong foundation
 
 ## About Me
 
-- 🎓 I'm studying Data Science at UC Berkeley, Class of 2025.
 - 📊 I work on backend data integrations and Infrastructure Automation for the Berkeley IT department!
 - 💼 I worked at a tech startup developing an email client similar to Superhuman.
 - 🗣️ In my spare time, I referee intramural soccer, volleyball, and basketball while managing academic responsibilities.
